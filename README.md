@@ -33,5 +33,5 @@ Tecnologias Back-end
 Spring
 JPA
 
-Consumos de servicios por ajax atreves del AnjularJS
+Consumos de servicios por Ajax con AnjularJS
 
