@@ -22,15 +22,15 @@ INSERT INTO `azurian`.`cliente` ( `age`, `name`) VALUES ( 20, 'Azu');
 
 Tecnologias Fron-end
 
-AngularJS
-Bootstrap
-Jquery
-Jquery-floatHead
+AngularJS,
+Bootstrap,
+Jquery,
+Jquery-floatHead,
 
 
 Tecnologias Back-end
 
-Spring
+Spring,
 JPA
 
 Consumos de servicios por Ajax con AnjularJS
