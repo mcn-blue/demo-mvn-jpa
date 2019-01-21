@@ -6,6 +6,7 @@ Mantenedor de Clientes Demo
 Desarrollado con eclipse Spring Tool Suite
 
 Base de datos mysql
+
 edicion de datos de conexion en src\main\resources\application.properties
 
 CREATE DATABASE `azurian` /*!40100 DEFAULT CHARACTER SET latin1 */;
