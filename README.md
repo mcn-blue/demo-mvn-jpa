@@ -1,5 +1,4 @@
-# azuriandemo
-Prueba ingreso azurian
+# demo-mvn-jpa
 
 Mantenedor de Clientes Demo
 
@@ -9,7 +8,7 @@ Base de datos mysql
 
 edicion de datos de conexion en src\main\resources\application.properties
 
-CREATE DATABASE `azurian` /*!40100 DEFAULT CHARACTER SET latin1 */;
+CREATE DATABASE `demo` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
 CREATE TABLE `cliente` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
@@ -18,7 +17,7 @@ CREATE TABLE `cliente` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=11 DEFAULT CHARSET=latin1;
 
-INSERT INTO `azurian`.`cliente` ( `age`, `name`) VALUES ( 20, 'Azu');
+INSERT INTO `demo`.`cliente` ( `age`, `name`) VALUES ( 20, 'Azu');
 
 Tecnologias Fron-end
 
